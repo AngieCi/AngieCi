@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy Carlos Marrugo / @carlosdev ✨🔥
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy Angeles Citro Pellegrino ✨🔥
 </h1>
 
 <p align="center">
@@ -14,16 +14,16 @@
 
 <hr style="border: 2px solid #FF5733;">
 
-<h3 align="left">Software Developer</h3>
+<h3 align="left">Analista Funcional Senior</h3>
 
-<h3 align="left">Desarrollador Fullstack especializado en Backend con Spring Boot y Frontend con Angular</h3>
+<h3 align="left">Desarrolladora especializada en Data Science y Consultoria IT</h3>
 
 <p align="left">
-  <a href="https://github.com/Carlos-Marrugo">
-    <img src="https://komarev.com/ghpvc/?username=Carlos-Marrugo" alt="Visitas al perfil" />
+  <a href="https://github.com/AngieCi">
+    <img src="https://komarev.com/ghpvc/?username=AngieCi" alt="Visitas al perfil" />
   </a>
-  <a href="https://github.com/Carlos-Marrugo?tab=followers">
-    <img alt="GitHub seguidores" src="https://img.shields.io/github/followers/Carlos-Marrugo?style=flat&logo=github">
+  <a href="https://github.com/AngieCi?tab=followers">
+    <img alt="GitHub seguidores" src="https://img.shields.io/github/followers/AngieCi?style=flat&logo=github">
   </a>
 </p>
 
