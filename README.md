@@ -1,9 +1,5 @@
 ### 🚀 **BIENVENIDO A MI MUNDO DIGITAL!** 🌟🔥💻
 
-<p align="center">
-  <img src="Imagenes/edff9344-027f-483a-bda9-833d69f0c4be-cover.png" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy Angeles Citro Pellegrino ✨🔥
 </h1>
