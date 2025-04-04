@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Bienvenido+a+mi+repositorio!+🔥;💻+Analista Funcional Senior!;🔧+Consultora IT!"/>
+  <img src="https://readme-typing-svg.demolab.com/demo/?color=000000&lines=%F0%9F%9A%80Bienvenido+a+mi+repositorio!%F0%9F%94%A5;%F0%9F%92%BBAnalista+Funcional+Senior;%F0%9F%94%A7Consultora+IT;%F0%9F%A4%9DGestion+de+Proyectos" />
 </p>
 
 <hr style="border: 2px solid #FF5733;">
