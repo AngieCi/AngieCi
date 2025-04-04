@@ -29,7 +29,9 @@
 
 - 💼 &nbsp; **Analista Funcional Senior**  
 - 🌱 &nbsp; Gestion de Proyectos & Consultor IT**  
-- 📫 &nbsp; Contáctame en <a href="https://www.linkedin.com/in/angelescitropellegrino/" target="_blank"a>
+- 📫 &nbsp; Contáctame en <a href="https://www.linkedin.com/in/angelescitropellegrino/" target="_blank" style="font-size: 16px; color: black; font-weight: bold; text-decoration: none;">
+    LinkedIn</a>
+
 ## 🔥 **Tecnologías y herramientas** 🚀💻
 
 **Languages and Tools:** 
