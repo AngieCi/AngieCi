@@ -28,13 +28,12 @@
 </p>
 
 <a href="#carlos-marrugo-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Carlos Marrugo" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AngieCI&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Angeles Citro Pellegrino" align="right" />
 </a>
 
-- 💼 &nbsp; **Estudiando Ingenieria de Software**  
-- 🌱 &nbsp; Estoy aprendiendo más sobre **Arquitectura de Microservicios**  
-- 💬 &nbsp; Me gusta hablar sobre **Java, Spring Boot, Angular y tecnologías web**  
-- 📫 &nbsp; Contáctame en **[LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/carlos-marrugo-701261283/))**  
+- 💼 &nbsp; **Analista Funcional Senior**  
+- 🌱 &nbsp; Gestion de Proyectos & Consultor IT**  
+- 📫 &nbsp; Contáctame en **[LinkedIn]([https://www.linkedin.com/in/angelescitropellegrino/))**  
 
 ## 🔥 **Tecnologías y herramientas** 🚀💻
 
